@@ -7,4 +7,4 @@ Drawscript is a totally new form of written language. It is a user-defined, user
 Currently, the database consists of scanned versions of the characters. They will be converted to vectors, as well as bitmap and to a form of QR-Codes in order to convert them to binary which will allow the computer to understand them as well. 
 
 
-By [Jesicka Labud](http://twonontechies.com)
+By [Jesicka Labud and Martin Labud](http://twonontechies.com)
