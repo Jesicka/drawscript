@@ -1,5 +1,10 @@
 
-$brand-primary: 	#fbb829;
-$body-bg: 				#ecf0f1;
+$brand-primary: 		#ecf0f1;
+$body-bg: 					#ecf0f1;
+$navbar-default-bg: 	white;
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
